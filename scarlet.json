@@ -21,6 +21,26 @@
       "description": "Youtube Music no ads",
       "bundleID": "com.google.ios.youtubemusic",
       "appstore": "com.google.ios.youtubemusic"
-    }
+    },
+      {
+      "name": "Whatsapp clone watusi",
+      "version": "23.23.79",
+      "down": "https://www.andreaargenio.it/ipa/com.fouadraheb.watusi_v23.21.79_watusi3_1.2.10.ipa",
+      "category": "Whatsapp",
+      "changelog": "github.com/FouadRaheb/Watusi-for-WhatsApp#sideloading-with-altstore",
+      "bundleID": "com.fouadraheb.watusi",
+      "appstore": "com.fouadraheb.watusi",
+    },
+    {
+      "name": "Delta",
+      "version": "1.4",
+      "down": "https://github.com/rileytestut/Delta/releases/download/v1.4/Delta_1_4.ipa",
+      "category": "Delta",
+      "changelog": "github.com/FouadRaheb/Watusi-for-WhatsApp#sideloading-with-altstore",
+      "bundleID": "com.rileytestut.Delta",
+      "appstore": "com.rileytestut.Delta",
+    },
+
+
   ]
 }

@@ -1,0 +1,26 @@
+{
+  "META": {
+    "repoName": "Killua Scarlet Repo",
+    "repoIcon": "https://usescarlet.com/favicon.png"
+  },
+  "Apps": [
+    {
+      "name": "Youtube no ads",
+      "version": "18.29.1",
+      "down": "https://miro92.com/repo/depictions/com.miro.uyou/iPA/YouTube_18.29.1_uYou_3.0.1.ipa",
+      "category": "Youtube",
+      "description": "Youtube no ads.",
+      "bundleID": "com.google.ios.youtube",
+      "appstore": "com.google.ios.youtube"
+    },
+    {
+      "name": "Youtube music no ads",
+      "version": "1.5.2",
+      "down": "https://github.com/ginsudev/YTMusicUltimate/releases/download/v1.5.2/YTMUltimate_v1.5.2_YTM6.20.2.ipa",
+      "category": "Youtube",
+      "description": "Youtube Music no ads",
+      "bundleID": "com.google.ios.youtubemusic",
+      "appstore": "com.google.ios.youtubemusic"
+    }
+  ]
+}
